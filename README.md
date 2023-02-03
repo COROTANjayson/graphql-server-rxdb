@@ -1,5 +1,5 @@
 # graphql-server-rxdb
-Graphql server implementation with rxdb replication implementation
+Graphql serve with rxdb replication implementation
 
 npm install
 
